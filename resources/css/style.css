@@ -1,8 +1,12 @@
 p.cta {
-   color:seagreen
+   color:seagreen;
    font-size: 25px
 }
 
 body {
     color: chocolate;
+}
+
+p {
+    color: skyblue;
 }
